@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeosutin&label=Visitors&color=000000&style=plastic" alt="sanjeosutin" /> </p>
 
-- 🔭 I’m currently working on my end of the year university project called **Conference Submission Management System**
+- 🔭 I’m currently working on updating my current personal website
 
-- 🌱 I’m currently learning how API works, Laravel Framework, and Front-End Development as well
+- 🌱 I’m currently learning how routing works, and Front-End Development as well
 
 - 👨‍💻 All of my projects are available at [sanjustin.xyz](sanjustin.xyz)
 
