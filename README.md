@@ -1,33 +1,50 @@
-<h1 align="center">Hi there 👋, I'm Justin</h1>
-<h3 align="center">A web developer passionate about photography, natures, video games, and more 😊.</h3>
+# Hey there! 👋 I'm Justin
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeosutin&label=Visitors&color=000000&style=plastic" alt="sanjeosutin" /> </p>
+### Web Developer 🌐 | Photographer 📸 | Nature Enthusiast 🌿 | Gamer 🎮
 
-- 🔭 I’m currently working on updating my current personal website
+![Visitors](https://komarev.com/ghpvc/?username=sanjeosutin&label=Visitors&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning how routing works, and Front-End Development as well
+- 🔭 **Currently Working On:** Adding some extra sparkle to my personal website ✨
 
-- 👨‍💻 All of my projects are available at [sanjustin.xyz](sanjustin.xyz)
+- 🌱 **Learning:** On a quest to master routing and the magical realms of Front-End Development 🧙‍♂️
 
-- 💬 Ask me about Anything you like, I'll be happy to answer them for you 😊
+- 👨‍💻 **All My Projects:** Check out my (mis)adventures at [sanjustin.xyz](https://sanjustin.xyz) 🚀
 
-- ⚡ Fun fact **I love coffee and puzzle 🤯**
+- 💬 **Ask Me About:** Anything and everything—don't be shy! 😄
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/justinsan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justinsan/" height="30" width="40" /></a>
-<a href="https://instagram.com/sanjeosutin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjeosutin" height="30" width="40" /></a>
+- 🎨 **Fun Fact:** When I'm not coding, I'm either hiking or dreaming up big ideas 😏
+
+- ⚡ **Quirky Fact:** I'm fueled by coffee and puzzles! Can't code without them ☕🧩
+
+### 🌐 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/justinsan/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/sanjeosutin)
+
+### 🛠️ Languages and Tools:
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white) 
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C%23&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white) 
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=Ruby&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeosutin&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&count_private=true&hide_title=true&include_all_commits=true" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeosutin&show_icons=true&theme=apprentice&hide_border=true&locale=en&layout=compact&count_private=true&hide_title=true&include_all_commits=true" alt="sanjeosutin" /></p>
+### 🎧 Tunes That Keep Me Coding
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeosutin&show_icons=true&theme=dark&hide_border=true&locale=en" alt="sanjeosutin" /></p>
-
-<hr>
-<h4 style="text-align:center">My current music</h4>
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=jhonlex888&cover_image=true&theme=novatorem&bar_color=0ee407&bar_color_cover=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jhonlex888&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
 </p>
