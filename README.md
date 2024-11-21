@@ -1,6 +1,6 @@
-# Hey there! 👋 I'm Justin
+<h1 align="center">Hey there! 👋 I'm Justin</h1>
 
-### Web Developer 🌐 | Photographer 📸 | Nature Enthusiast 🌿 | Gamer 🎮
+<h3 align="center"> Web Developer 🌐 | Photographer 📸 | Nature Enthusiast 🌿 | Gamer 🎮 </h3>
 
 ![Visitors](https://komarev.com/ghpvc/?username=sanjeosutin&label=Visitors&color=0e75b6&style=flat)
 
