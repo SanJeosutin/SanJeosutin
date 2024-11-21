@@ -8,7 +8,7 @@
 
 - 🌱 **Learning:** On a quest to master routing and the magical realms of Front-End Development 🧙‍♂️
 
-- 👨‍💻 **All My Projects:** Check out my (mis)adventures at [sanjustin.xyz](https://sanjustin.xyz) 🚀
+- 👨‍💻 **All My Projects:** Check out my (mis)adventures at [sanjustin.dev](https://sanjustin.dev) 🚀
 
 - 💬 **Ask Me About:** Anything and everything—don't be shy! 😄
 
